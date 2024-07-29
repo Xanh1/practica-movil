@@ -45,10 +45,4 @@ class Services {
     return rg;
   }
 
-  /*    
-  Future<DataResponse> stadistic() async{
-    DataResponse rg = await _con.get("censos", '');
-    return rg;
-  }
-  */
 }
