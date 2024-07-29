@@ -1,0 +1,11 @@
+{
+    "msg": "Succes",
+    "code": 200,
+    "context": {
+        {
+            "name": "branch 1",
+            "latitude": -4.4322,
+            "longitude": -79.3231
+        },
+    }
+}
